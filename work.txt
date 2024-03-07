@@ -11,3 +11,11 @@ DELETE /user/1 -> delete the user with id 1
 
 
 finished!!!!!!!!!!!!!
+
+///connect mongodb
+install mongoose
+connect mongodb
+create schema
+create modal
+
+do all CRUD operations
